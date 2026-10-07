@@ -1,4 +1,4 @@
-# Campus Wi-Fi AAA Lab
+# Vanta
 
 A lab design for giving each campus Wi-Fi user an individual identity instead of sharing one network password. The project documents an 802.1X / WPA2-Enterprise authentication service built around FreeRADIUS and OpenLDAP, packaged with Docker Compose.
 
